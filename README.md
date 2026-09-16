@@ -6,7 +6,7 @@ I build product interfaces and frontend architecture from scratch, from early te
 
 ✦ **Selected work**
 
-- <img src="assets/mentala.png" width="20" height="20" alt="Mentala icon"> [Mentala](https://mentala.app) — An AI-powered mental health product for web, iOS, and Android.
-- <img src="assets/glasno.png" width="20" height="20" alt="Glasno icon"> [Glasno](https://glasno.app) — An AI-powered platform for practicing technical interviews.
+- [Mentala](https://mentala.app) — An AI-powered mental health product for web, iOS, and Android.
+- [Glasno](https://glasno.app) — An AI-powered platform for practicing technical interviews.
 
 **Stack:** Vue 3 · Nuxt · TypeScript · JavaScript · React · Pinia · Vitest · Docker · CI/CD
